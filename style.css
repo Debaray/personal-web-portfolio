@@ -22,6 +22,10 @@ p{
     margin-top: -30px;
     padding-bottom: 40px;
 }
+h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+}
 .top-banner{
     background-color: white;
 }
@@ -64,8 +68,30 @@ p{
 }
 .working-project{
     background-color: #E5E5E5;
+    padding-bottom: 130px;
 }
 .working-heading{
     text-align: center;
     padding:50px 0px;
+}
+.one-third-width{
+    width: 25%;
+    float: left;
+    margin: 0% 1%;
+    padding: 0% 1%;   
+    border-radius: 10px;
+    height: 60%;
+    background-color: white;
+}
+.one-third-width img
+{
+    width: 100%;
+    /*margin-top: -100px;*/
+}
+.one-third-width p
+{
+    margin-top: 10px;
+}
+#first-project{
+    margin-left: 100px;
 }
