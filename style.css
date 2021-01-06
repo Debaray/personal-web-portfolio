@@ -95,3 +95,25 @@ h3{
 #first-project{
     margin-left: 100px;
 }
+.work-inquiry{
+   
+    background-image: url(shapes/Group_33094_1.png);
+    
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+.inquiry-part-left
+{
+    float: left;
+    Width: 40%;
+    Margin-top: 20px;
+    color: white;
+}
+.inquiry-part-right
+{
+    float: right;
+    Width: 40%;
+    Margin-top: 20px;
+    color: white;
+}
